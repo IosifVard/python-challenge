@@ -33,6 +33,7 @@ Outputs key financial insights such as total revenue, average change in profits,
 
 PyPoll:
 Outputs election results with the winner and vote percentage for each candidate.
+![image](https://github.com/user-attachments/assets/362ee6ab-2aad-4d94-a964-6b4d491d8067)
 
 Conclusion
 This project demonstrates basic data visualization and analysis techniques using Python. It highlights the use of core data manipulation libraries and visualizing insights effectively for decision-making.
