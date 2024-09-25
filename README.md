@@ -11,6 +11,6 @@ The project contains the following key components:
 
 4. ## Project Files
 
-5. - **PyBank.py**: This script contains the analysis for financial data, including calculating total months, total revenue, average change, greatest increase, and greatest decrease.
+- **PyBank.py**: This script contains the analysis for financial data, including calculating total months, total revenue, average change, greatest increase, and greatest decrease.
 - **PyPoll.py**: This script performs an election vote count analysis, identifying the total number of votes, individual candidates, percentage votes, and the winner of the election.
 - **02-challenge.md**: Project challenge details and requirements for completing the tasks.
