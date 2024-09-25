@@ -22,3 +22,7 @@ To run this project, ensure you have the following installed:
 - `pandas` library
 - `matplotlib` library
 - `seaborn` library
+
+Install these dependencies using pip:
+```bash
+pip install pandas matplotlib seaborn
