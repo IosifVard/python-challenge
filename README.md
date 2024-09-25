@@ -26,3 +26,13 @@ To run this project, ensure you have the following installed:
 Install these dependencies using pip:
 ```bash
 pip install pandas matplotlib seaborn
+
+Results
+PyBank:
+Outputs key financial insights such as total revenue, average change in profits, and more.
+
+PyPoll:
+Outputs election results with the winner and vote percentage for each candidate.
+
+Conclusion
+This project demonstrates basic data visualization and analysis techniques using Python. It highlights the use of core data manipulation libraries and visualizing insights effectively for decision-making.
